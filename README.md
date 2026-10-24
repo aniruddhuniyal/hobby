@@ -1,2 +1,1 @@
-# other
-other interests i have
+<img align="center" src="hobby.png" alt="hobby image" width="100%">
